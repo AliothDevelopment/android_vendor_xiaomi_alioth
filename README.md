@@ -1,0 +1,2 @@
+# android_vendor_xiaomi_alioth
+gitlab.com/vendorosass/vendor_xiaomi_alioth
